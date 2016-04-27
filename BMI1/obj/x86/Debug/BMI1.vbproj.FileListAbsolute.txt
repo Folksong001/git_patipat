@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\bin\Debug\BMI1.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\bin\Debug\BMI1.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\bin\Debug\BMI1.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\BMI1\BMI1\obj\x86\Debug\BMI1.pdb
